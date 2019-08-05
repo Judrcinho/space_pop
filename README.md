@@ -1,2 +1,2 @@
-# space_pop
-Space pop game for iOS
+# Space pop
+Game for iOS 
